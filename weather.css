@@ -238,8 +238,10 @@
 @media screen and (max-width:380px){
     
     .temp h1{
-        top: -23px;
-        font-size: 3.5rem;
+            top: -30px;
+    font-size: 3.5rem;
+    left: -2rem;
+
     }
 
     .search{
@@ -263,4 +265,9 @@
     .deat li {
         font-size: 19px;
     }
+    .city{
+         left: -2rem;
+    }
+    .days{
+        width: 12rem;
 }
